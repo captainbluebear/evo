@@ -13,7 +13,10 @@ To run the model, download the files off github to your local computer. Ensure y
 
 ## Resources
 https://medium.com/@ulriktpedersen/creating-a-simple-predator-prey-model-with-mesa-a-python-simulation-library-4835f29791ae
+
 https://youtu.be/N3tRFayqVtk?si=F-QSEgo3tdW-sWCz
+
 https://gama-platform.org/wiki/PredatorPrey
+
 
 
